@@ -52,70 +52,70 @@ const expertData = [
         org: "Govt of India", 
         designation: "HEAD-NRDC OUTREACH OFFICE", 
         quote: "Connecting <span>research lab technology</span> to practical use, uniting stakeholders to foster entrepreneurship, innovation for societal benefits, aligns with India's vision and values for impactful collaborative ecosystems.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/bksahu-BnY5GmXA.jpg" 
+        pic: "./assets/EXPERT REVIEW/bksahu-BnY5GmXA.jpg" 
     },
     { 
         name: "Shri Manmath K Badapanda", 
         org: "RRCAT (DAE), Indore", 
         designation: "SENIOR SCIENTIST", 
         quote: "Startups are <span>innovators and risk-takers</span> and as you grow and expand, you must ensure that there is proper financial management and a proper audit.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/mkbadapanda-CmlpdCua.jpg" 
+        pic: "./assets/EXPERT REVIEW/mkbadapanda-CmlpdCua.jpg" 
     },
     { 
         name: "Prof. Narayana P Padhy", 
         org: "Malavya National Institute of Technology(MNIT),Jaipur", 
         designation: "DIRECTOR", 
         quote: "The government's only idea is to be a catalyst in Startup promotion. We are hoping that via this, it becomes easier for Startups to operate worldwide.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/nppadhy-DOd2QGIa.jpg" 
+        pic: "./assets/EXPERT REVIEW/nppadhy-DOd2QGIa.jpg" 
     },
     { 
         name: "Mr. Chandan Samantaray", 
         org: "Faculty in Department Of Engineering,Virginia State University", 
         designation: "PROFESSOR", 
         quote: "Technology should be accessible to everyone. Our goal is to bridge the digital divide and empower communities.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/chandansamantaray-BV628n7n.jpg" 
+        pic: "./assets/EXPERT REVIEW/chandansamantaray-BV628n7n.jpg" 
     },
     { 
         name: "Mr. Mrutyunjaya Mohapatra", 
         org: "India Meteorological Department, Government Of India", 
         designation: "DIRECTOR GENERAL OF METEORLOGY", 
         quote: " I appreciate the rapid development and high standards of the AIC-SOA Foundation for its supportive environment for budding entrepreneurs and startups. The AIC-SOA Foundation is marching a ahead for continued success in fostering knowledge, expertise, and industrial growth in India.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/mmohapatra-_IzG5hrZ.jpg" 
+        pic: "./assets/EXPERT REVIEW/mmohapatra-_IzG5hrZ.jpg" 
     },
     { 
         name: "H.E.Mr.Fernando Xavier Bucheli Vargas", 
         org: "Ecuador", 
         designation: "AMBASSADOR OF ECUADOR TO INDIA", 
         quote:  "The future is now there is urgent need to act in the present to advance sustainable development goals.Sustainable practices are not an option but a necessity for long-term economic and environmental health.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/fernando-C24TBo3b.jpg" 
+        pic: "./assets/EXPERT REVIEW/fernando-C24TBo3b.jpg" 
     },
      { 
         name: "H.E.Mr.Omar Lisandro Castaneda Solares", 
         org: "Guatemala", 
         designation: "AMBASSADOR OF Guatemala TO INDIA", 
         quote:  "The AIC-SOA Foundation successfully fosters an environment for rich creativity and provides the crucial support needed to  build successful startups for the disruptive  technology in force.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/omar-D5L5ivtV.jpg" 
+        pic: "./assets/EXPERT REVIEW/omar-D5L5ivtV.jpg" 
     },
     { 
         name: "Prof.Ujjwal Maulik", 
         org: "Kolkata", 
         designation: "Jadavpur University", 
         quote:  "This center is so good, well-planned. Young generations are really trying hard; I believe many startups from here will do very well in the future.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/Ujjwal-BOHyuDBS.jpg" 
+        pic: "./assets/EXPERT REVIEW/Ujjwal-BOHyuDBS.jpg" 
     },
     { 
         name: "Prof.Bijaya Ketan Panigrahi", 
         org: "", 
         designation: "IIT,DELHI", 
         quote:  "The AIC-SOA Foundation is the perfect platform for encouraging young minds from diverse domains to collaborate and innovate. It’s an excellent initiative for building deep-tech startups, aligning perfectly with the vision of 'Viksit Bharat'", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/panigrahi-CTgwxTGS.jpg" 
+        pic: "./assets/EXPERT REVIEW/panigrahi-CTgwxTGS.jpg" 
     },
     { 
         name: "Dr.Debi Prasad Tripathy", 
         org: "Northern Ontario School Of Medicine Univeristy, Canada", 
         designation: "Jadavpur University", 
         quote:  "The AIC-SOA’s incubation in medtech, agritech, and deep tech, highlighting an AI device for rapid cervical cancer diagnosis and its broader impact on food security and Odisha.", 
-        pic: "/aicwebsitemain/assets/EXPERT REVIEW/debiprasad-DTdjJ6Yi.jpg" 
+        pic: "./assets/EXPERT REVIEW/debiprasad-DTdjJ6Yi.jpg" 
     },
 ];
 
