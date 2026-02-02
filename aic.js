@@ -108,14 +108,14 @@ const expertData = [
         org: "", 
         designation: "IIT,DELHI", 
         quote:  "The AIC-SOA Foundation is the perfect platform for encouraging young minds from diverse domains to collaborate and innovate. It’s an excellent initiative for building deep-tech startups, aligning perfectly with the vision of 'Viksit Bharat'", 
-        pic: "./aicwebsitemain/assets/expert-review/panigrahi-CTgwxTGS.jpg" 
+        pic: "./assets/expert-review/panigrahi-CTgwxTGS.jpg" 
     },
     { 
         name: "Dr.Debi Prasad Tripathy", 
         org: "Northern Ontario School Of Medicine Univeristy, Canada", 
         designation: "Jadavpur University", 
         quote:  "The AIC-SOA’s incubation in medtech, agritech, and deep tech, highlighting an AI device for rapid cervical cancer diagnosis and its broader impact on food security and Odisha.", 
-        pic: "/aicwebsitemain/assets/expert-review/debiprasad-DTdjJ6Yi.jpg" 
+        pic: "./assets/expert-review/debiprasad-DTdjJ6Yi.jpg" 
     },
 ];
 
